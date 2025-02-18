@@ -1,0 +1,11 @@
+opencv-python
+numpy
+mediapipe
+logging
+Flask
+openpyxl
+mysql-connector-python
+pyttsx3
+matplotlib
+fpdf
+tensorflow
